@@ -1,0 +1,2308 @@
+<?xml version="1.0" encoding="utf8"?>
+<kdissertdoc>
+<version>7</version>
+<meta project="library2" path="/home/manuel/Escritorio" fname="" sname="Manuel,,," email="" company="" pixsize="48" colbackground="#fffde8" collink="#000000" colref="#6ecaff" canvasfont="Sans Serif,8,-1,0,50,0,0,0,0,0" picturesoncanvas="1" generator_lasturl="/home/manuel/Escritorio/library" generator_lastgen="kdissasciidoc" showdirectionsize="4" linkstyle="0" />
+<item>
+ <id>4</id>
+ <xpos>3253</xpos><ypos>1500</ypos>
+ <colorscheme>1</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>Core</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>-1</parent>
+ <child>6</child>
+ <child>7</child>
+ <child>8</child>
+ <child>136</child>
+ <child>137</child>
+ <child>138</child>
+ <child>139</child>
+</item>
+<item>
+ <id>6</id>
+ <xpos>3230</xpos><ypos>1455</ypos>
+ <colorscheme>2</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>Singleton</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>4</parent>
+</item>
+<item>
+ <id>7</id>
+ <xpos>3246</xpos><ypos>1549</ypos>
+ <colorscheme>3</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>app</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>4</parent>
+</item>
+<item>
+ <id>8</id>
+ <xpos>3344</xpos><ypos>1503</ypos>
+ <colorscheme>3</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text></text>
+ <summary>(bucle)</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>4</parent>
+</item>
+<item>
+ <id>9</id>
+ <xpos>2770</xpos><ypos>1719</ypos>
+ <colorscheme>6</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text></text>
+ <summary>[General]</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>13</parent>
+ <child>15</child>
+ <child>22</child>
+ <child>23</child>
+ <child>24</child>
+</item>
+<item>
+ <id>10</id>
+ <xpos>3000</xpos><ypos>1699</ypos>
+ <colorscheme>6</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text></text>
+ <summary>[SceneManager]</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>13</parent>
+ <child>16</child>
+ <child>11</child>
+ <child>12</child>
+ <child>27</child>
+</item>
+<item>
+ <id>11</id>
+ <xpos>3183</xpos><ypos>1773</ypos>
+ <colorscheme>3</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>Actual Scene</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>10</parent>
+ <child>19</child>
+</item>
+<item>
+ <id>12</id>
+ <xpos>3183</xpos><ypos>1677</ypos>
+ <colorscheme>3</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;/head&gt;&lt;body style=&quot;font-size:10pt;font-family:Sans Serif&quot;&gt;
+&lt;p&gt;Listado de recursos de dnd se ha de cargar las escenas. No estaran caragadas hasta que no se ejecuten el change_scene&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;
+</text>
+ <summary>ScenesList</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>10</parent>
+</item>
+<item>
+ <id>13</id>
+ <xpos>2892</xpos><ypos>1699</ypos>
+ <colorscheme>1</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>Game</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>-1</parent>
+ <child>21</child>
+ <child>9</child>
+ <child>10</child>
+</item>
+<item>
+ <id>15</id>
+ <xpos>2769</xpos><ypos>1658</ypos>
+ <colorscheme>4</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>MVCApp</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>9</parent>
+</item>
+<item>
+ <id>16</id>
+ <xpos>3022</xpos><ypos>1649</ypos>
+ <colorscheme>4</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>MVCApp</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>10</parent>
+ <child>166</child>
+</item>
+<item>
+ <id>19</id>
+ <xpos>3188</xpos><ypos>1731</ypos>
+ <colorscheme>4</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>Scene</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>11</parent>
+</item>
+<item>
+ <id>21</id>
+ <xpos>2881</xpos><ypos>1634</ypos>
+ <colorscheme>4</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>MVCApp</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>13</parent>
+ <child>165</child>
+</item>
+<item>
+ <id>22</id>
+ <xpos>2680</xpos><ypos>1689.5</ypos>
+ <colorscheme>3</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>m</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>9</parent>
+ <child>25</child>
+</item>
+<item>
+ <id>23</id>
+ <xpos>2684</xpos><ypos>1729.5</ypos>
+ <colorscheme>3</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>v</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>9</parent>
+</item>
+<item>
+ <id>24</id>
+ <xpos>2685</xpos><ypos>1779</ypos>
+ <colorscheme>3</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>c</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>9</parent>
+ <child>26</child>
+</item>
+<item>
+ <id>25</id>
+ <xpos>2586</xpos><ypos>1689.5</ypos>
+ <colorscheme>6</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>DB</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>22</parent>
+</item>
+<item>
+ <id>26</id>
+ <xpos>2505</xpos><ypos>1770</ypos>
+ <colorscheme>1</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;/head&gt;&lt;body style=&quot;font-size:10pt;font-family:Sans Serif&quot;&gt;
+&lt;p&gt;Configuracion tipo:&lt;/p&gt;
+&lt;p&gt;Se pulsa tecla A: Se genera el evento Button1&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;
+</text>
+ <summary>Usuario-Eventos Internos</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>24</parent>
+</item>
+<item>
+ <id>27</id>
+ <xpos>3121</xpos><ypos>1624</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;/head&gt;&lt;body style=&quot;font-size:10pt;font-family:Sans Serif&quot;&gt;
+&lt;p&gt;Elimina la escena actual&lt;/p&gt;
+&lt;p&gt;Y carga el XML con la nueva scena&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;
+</text>
+ <summary>ChangeScene(scene_name)</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>10</parent>
+</item>
+<item>
+ <id>28</id>
+ <xpos>2366</xpos><ypos>1573</ypos>
+ <colorscheme>1</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>Menu</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>-1</parent>
+ <child>81</child>
+ <child>90</child>
+ <child>83</child>
+ <child>86</child>
+ <flag>3</flag>
+</item>
+<item>
+ <id>30</id>
+ <xpos>2895</xpos><ypos>1901</ypos>
+ <colorscheme>1</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>MVCApp</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>-1</parent>
+ <child>32</child>
+ <child>42</child>
+ <child>43</child>
+ <child>45</child>
+ <child>46</child>
+ <child>47</child>
+ <child>49</child>
+ <child>51</child>
+ <child>52</child>
+</item>
+<item>
+ <id>31</id>
+ <xpos>3771</xpos><ypos>1884</ypos>
+ <colorscheme>1</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>Scene(Lo mismo que una App?</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>-1</parent>
+ <flag>3</flag>
+ <flag>2</flag>
+</item>
+<item>
+ <id>32</id>
+ <xpos>2890</xpos><ypos>1841</ypos>
+ <colorscheme>4</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>BasicApp</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>30</parent>
+</item>
+<item>
+ <id>34</id>
+ <xpos>3358</xpos><ypos>1992</ypos>
+ <colorscheme>1</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;/head&gt;&lt;body style=&quot;font-size:10pt;font-family:Sans Serif&quot;&gt;
+&lt;p&gt;Lista de modulos&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;
+</text>
+ <summary>BasicApp</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>-1</parent>
+ <child>36</child>
+ <child>37</child>
+ <child>38</child>
+ <child>39</child>
+ <child>41</child>
+</item>
+<item>
+ <id>36</id>
+ <xpos>3346</xpos><ypos>1934</ypos>
+ <colorscheme>4</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>SortableList</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>34</parent>
+ <child>164</child>
+</item>
+<item>
+ <id>37</id>
+ <xpos>3229</xpos><ypos>1992</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>update()</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>34</parent>
+</item>
+<item>
+ <id>38</id>
+ <xpos>3246</xpos><ypos>2032</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>draw()</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>34</parent>
+</item>
+<item>
+ <id>39</id>
+ <xpos>3490</xpos><ypos>2012</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>bool:new_event()</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>34</parent>
+</item>
+<item>
+ <id>41</id>
+ <xpos>3490</xpos><ypos>1972</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>bool:updated():True</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>34</parent>
+</item>
+<item>
+ <id>42</id>
+ <xpos>2712</xpos><ypos>1861</ypos>
+ <colorscheme>3</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>(SortableDict)m</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>30</parent>
+</item>
+<item>
+ <id>43</id>
+ <xpos>2718</xpos><ypos>1901</ypos>
+ <colorscheme>3</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>(SortableDict)v</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>30</parent>
+</item>
+<item>
+ <id>45</id>
+ <xpos>2719</xpos><ypos>1941</ypos>
+ <colorscheme>3</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>(SortableDict)c</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>30</parent>
+</item>
+<item>
+ <id>46</id>
+ <xpos>2700</xpos><ypos>1983</ypos>
+ <colorscheme>3</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>(SortableDict)sub_app</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>30</parent>
+ <flag>6</flag>
+</item>
+<item>
+ <id>47</id>
+ <xpos>3021</xpos><ypos>1990</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>new_event() (c &amp; sub)</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>30</parent>
+</item>
+<item>
+ <id>49</id>
+ <xpos>3021</xpos><ypos>1893</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>update (c  &amp; sub) (M actualmente no) (dejarlo asi o cambiarlo?)</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>30</parent>
+ <flag>0</flag>
+</item>
+<item>
+ <id>51</id>
+ <xpos>3021</xpos><ypos>1834</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>draw() (v &amp;sub)</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>30</parent>
+</item>
+<item>
+ <id>52</id>
+ <xpos>3021</xpos><ypos>1794</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>updated():True</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>30</parent>
+</item>
+<item>
+ <id>57</id>
+ <xpos>2185</xpos><ypos>1805</ypos>
+ <colorscheme>1</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;/head&gt;&lt;body style=&quot;font-size:10pt;font-family:Sans Serif&quot;&gt;
+&lt;p&gt;Lista que permite la ordenacion manual de cada uno de sus elementos&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;
+</text>
+ <summary>SortableList</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>-1</parent>
+ <child>68</child>
+ <child>59</child>
+ <child>60</child>
+ <child>61</child>
+ <child>62</child>
+ <child>63</child>
+ <child>65</child>
+ <child>66</child>
+ <child>67</child>
+</item>
+<item>
+ <id>58</id>
+ <xpos>3417</xpos><ypos>2352</ypos>
+ <colorscheme>1</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;/head&gt;&lt;body style=&quot;font-size:10pt;font-family:Sans Serif&quot;&gt;
+&lt;p&gt;Dicionario cuyas claves en vez de ser un Set es un SortableList&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;
+</text>
+ <summary>SortableDict</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>-1</parent>
+ <child>70</child>
+ <child>71</child>
+ <child>72</child>
+ <child>73</child>
+ <child>74</child>
+</item>
+<item>
+ <id>59</id>
+ <xpos>2043</xpos><ypos>1765</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>top(index)</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>57</parent>
+</item>
+<item>
+ <id>60</id>
+ <xpos>2013</xpos><ypos>1805</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>bottom(index)</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>57</parent>
+</item>
+<item>
+ <id>61</id>
+ <xpos>2048</xpos><ypos>1845</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>up(index)</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>57</parent>
+</item>
+<item>
+ <id>62</id>
+ <xpos>2027</xpos><ypos>1885</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>down(index)</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>57</parent>
+</item>
+<item>
+ <id>63</id>
+ <xpos>2337</xpos><ypos>1865</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>top_elem(elem)</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>57</parent>
+</item>
+<item>
+ <id>65</id>
+ <xpos>2337</xpos><ypos>1825</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>bottom_elem(elem)</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>57</parent>
+</item>
+<item>
+ <id>66</id>
+ <xpos>2337</xpos><ypos>1785</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>up_elem(elem)</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>57</parent>
+</item>
+<item>
+ <id>67</id>
+ <xpos>2337</xpos><ypos>1745</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>down_elem(elem)</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>57</parent>
+</item>
+<item>
+ <id>68</id>
+ <xpos>2217</xpos><ypos>1746</ypos>
+ <colorscheme>4</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>list</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>57</parent>
+</item>
+<item>
+ <id>70</id>
+ <xpos>3449</xpos><ypos>2310</ypos>
+ <colorscheme>4</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>dict</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>58</parent>
+</item>
+<item>
+ <id>71</id>
+ <xpos>3290</xpos><ypos>2352</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>top(key)</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>58</parent>
+</item>
+<item>
+ <id>72</id>
+ <xpos>3260</xpos><ypos>2392</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>bottom(key)</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>58</parent>
+</item>
+<item>
+ <id>73</id>
+ <xpos>3573</xpos><ypos>2372</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>up(key)</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>58</parent>
+</item>
+<item>
+ <id>74</id>
+ <xpos>3573</xpos><ypos>2332</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>down(key)</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>58</parent>
+</item>
+<item>
+ <id>75</id>
+ <xpos>2958</xpos><ypos>2146</ypos>
+ <colorscheme>1</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>(abstract) module</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>-1</parent>
+ <child>77</child>
+ <child>78</child>
+ <child>79</child>
+ <child>80</child>
+</item>
+<item>
+ <id>77</id>
+ <xpos>2758</xpos><ypos>2135</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>new_event(event)</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>75</parent>
+</item>
+<item>
+ <id>78</id>
+ <xpos>2829</xpos><ypos>2175</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>update()</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>75</parent>
+</item>
+<item>
+ <id>79</id>
+ <xpos>3090</xpos><ypos>2175</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>draw()</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>75</parent>
+</item>
+<item>
+ <id>80</id>
+ <xpos>3090</xpos><ypos>2135</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#ff2020</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>event_to_red(name,args*,**kw</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>75</parent>
+ <flag>8</flag>
+ <flag>3</flag>
+ <flag>0</flag>
+</item>
+<item>
+ <id>81</id>
+ <xpos>2349</xpos><ypos>1500</ypos>
+ <colorscheme>4</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>ElemScene</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>28</parent>
+</item>
+<item>
+ <id>83</id>
+ <xpos>2226</xpos><ypos>1613</ypos>
+ <colorscheme>6</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>ViewMenu</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>28</parent>
+ <child>92</child>
+ <child>93</child>
+ <child>94</child>
+ <child>95</child>
+</item>
+<item>
+ <id>84</id>
+ <xpos>3799</xpos><ypos>2073</ypos>
+ <colorscheme>1</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>Background</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>-1</parent>
+ <child>85</child>
+ <flag>3</flag>
+</item>
+<item>
+ <id>85</id>
+ <xpos>3803</xpos><ypos>2016</ypos>
+ <colorscheme>4</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>ElemScene</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>84</parent>
+</item>
+<item>
+ <id>86</id>
+ <xpos>2471</xpos><ypos>1573</ypos>
+ <colorscheme>6</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>ModelMenu</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>28</parent>
+ <child>87</child>
+ <child>88</child>
+ <child>89</child>
+ <child>91</child>
+</item>
+<item>
+ <id>87</id>
+ <xpos>2621</xpos><ypos>1633</ypos>
+ <colorscheme>3</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>list:options</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>86</parent>
+</item>
+<item>
+ <id>88</id>
+ <xpos>2621</xpos><ypos>1593</ypos>
+ <colorscheme>3</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>index:actual</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>86</parent>
+</item>
+<item>
+ <id>89</id>
+ <xpos>2621</xpos><ypos>1553</ypos>
+ <colorscheme>3</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>bool:bucle</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>86</parent>
+</item>
+<item>
+ <id>90</id>
+ <xpos>2202</xpos><ypos>1513</ypos>
+ <colorscheme>3</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>bool:activado</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>28</parent>
+</item>
+<item>
+ <id>91</id>
+ <xpos>2621</xpos><ypos>1513</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>import_options(xml)</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>86</parent>
+</item>
+<item>
+ <id>92</id>
+ <xpos>2130</xpos><ypos>1553</ypos>
+ <colorscheme>3</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>skin</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>83</parent>
+</item>
+<item>
+ <id>93</id>
+ <xpos>2037</xpos><ypos>1593</ypos>
+ <colorscheme>3</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>num_op_visibles</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>83</parent>
+</item>
+<item>
+ <id>94</id>
+ <xpos>2133</xpos><ypos>1633</ypos>
+ <colorscheme>3</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>....</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>83</parent>
+</item>
+<item>
+ <id>95</id>
+ <xpos>2114</xpos><ypos>1673</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>draw()</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>83</parent>
+</item>
+<item>
+ <id>96</id>
+ <xpos>3735</xpos><ypos>1672</ypos>
+ <colorscheme>1</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>option</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>-1</parent>
+ <child>97</child>
+ <child>99</child>
+ <child>105</child>
+ <child>106</child>
+</item>
+<item>
+ <id>97</id>
+ <xpos>3741</xpos><ypos>1747</ypos>
+ <colorscheme>3</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>name</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>96</parent>
+</item>
+<item>
+ <id>99</id>
+ <xpos>3606</xpos><ypos>1692</ypos>
+ <colorscheme>3</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>behavior</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>96</parent>
+ <child>100</child>
+ <child>101</child>
+ <child>102</child>
+ <child>103</child>
+ <child>104</child>
+</item>
+<item>
+ <id>100</id>
+ <xpos>3443</xpos><ypos>1517</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#ff2020</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>seleccionar entre opciones</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>99</parent>
+ <flag>0</flag>
+</item>
+<item>
+ <id>101</id>
+ <xpos>3439</xpos><ypos>1595</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#ff2020</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>asginar un control a un evento</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>99</parent>
+ <flag>0</flag>
+</item>
+<item>
+ <id>102</id>
+ <xpos>3440</xpos><ypos>1673</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#ff2020</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>submenu (cambiando de ventana</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>99</parent>
+ <flag>0</flag>
+</item>
+<item>
+ <id>103</id>
+ <xpos>3447</xpos><ypos>1751</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#ff2020</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>dar un valor a un atributo (a mano)</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>99</parent>
+ <flag>0</flag>
+</item>
+<item>
+ <id>104</id>
+ <xpos>3370</xpos><ypos>1829</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#ff2020</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>Modificar un menu (añadiendo nuevos jugadores por ejemplo)</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>99</parent>
+ <flag>0</flag>
+</item>
+<item>
+ <id>105</id>
+ <xpos>3846</xpos><ypos>1711</ypos>
+ <colorscheme>3</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>image</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>96</parent>
+</item>
+<item>
+ <id>106</id>
+ <xpos>3846</xpos><ypos>1633</ypos>
+ <colorscheme>3</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>type = name, image&amp;name, image</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>96</parent>
+</item>
+<item>
+ <id>107</id>
+ <xpos>2288</xpos><ypos>2079</ypos>
+ <colorscheme>1</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>Images</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>-1</parent>
+ <child>110</child>
+ <child>112</child>
+ <child>113</child>
+ <child>114</child>
+ <child>115</child>
+ <child>116</child>
+ <child>117</child>
+ <child>118</child>
+ <child>108</child>
+ <child>109</child>
+ <child>119</child>
+ <child>120</child>
+ <child>121</child>
+ <child>122</child>
+ <child>127</child>
+</item>
+<item>
+ <id>108</id>
+ <xpos>2406</xpos><ypos>2199</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#abfbc7</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>set_skin(name,space)</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>107</parent>
+</item>
+<item>
+ <id>109</id>
+ <xpos>2406</xpos><ypos>2159</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#abfbc7</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>get_skin(space)</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>107</parent>
+</item>
+<item>
+ <id>110</id>
+ <xpos>2060</xpos><ypos>1939</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>get(name,space,skin)</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>107</parent>
+</item>
+<item>
+ <id>112</id>
+ <xpos>2070</xpos><ypos>1979</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>delete_space(space)</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>107</parent>
+</item>
+<item>
+ <id>113</id>
+ <xpos>2064</xpos><ypos>2019</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>delete_image(image)</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>107</parent>
+</item>
+<item>
+ <id>114</id>
+ <xpos>1986</xpos><ypos>2059</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>cache_image(name,space,skin)</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>107</parent>
+</item>
+<item>
+ <id>115</id>
+ <xpos>1897</xpos><ypos>2099</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>cache_multiple(name,space,skin,rows,cols)</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>107</parent>
+</item>
+<item>
+ <id>116</id>
+ <xpos>2104</xpos><ypos>2139</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>get_animation()</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>107</parent>
+</item>
+<item>
+ <id>117</id>
+ <xpos>2083</xpos><ypos>2179</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>link(name,surface)</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>107</parent>
+</item>
+<item>
+ <id>118</id>
+ <xpos>1952</xpos><ypos>2219</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>set_animation(name,tuple(images))</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>107</parent>
+</item>
+<item>
+ <id>119</id>
+ <xpos>2406</xpos><ypos>2119</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>dict:get_skins()</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>107</parent>
+</item>
+<item>
+ <id>120</id>
+ <xpos>2406</xpos><ypos>2079</ypos>
+ <colorscheme>3</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>default_space=general</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>107</parent>
+</item>
+<item>
+ <id>121</id>
+ <xpos>2406</xpos><ypos>2039</ypos>
+ <colorscheme>3</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>cache</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>107</parent>
+ <child>123</child>
+</item>
+<item>
+ <id>122</id>
+ <xpos>2406</xpos><ypos>1999</ypos>
+ <colorscheme>3</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>default_skin=default</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>107</parent>
+</item>
+<item>
+ <id>123</id>
+ <xpos>2513</xpos><ypos>2039</ypos>
+ <colorscheme>3</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>[space]</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>121</parent>
+ <child>124</child>
+</item>
+<item>
+ <id>124</id>
+ <xpos>2632</xpos><ypos>2039</ypos>
+ <colorscheme>3</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>[skin]</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>123</parent>
+ <child>125</child>
+</item>
+<item>
+ <id>125</id>
+ <xpos>2738</xpos><ypos>2039</ypos>
+ <colorscheme>3</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>[name]</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>124</parent>
+ <child>126</child>
+</item>
+<item>
+ <id>126</id>
+ <xpos>2856</xpos><ypos>2039</ypos>
+ <colorscheme>3</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>image</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>125</parent>
+</item>
+<item>
+ <id>127</id>
+ <xpos>2406</xpos><ypos>1959</ypos>
+ <colorscheme>3</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>skins_actual</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>107</parent>
+ <child>128</child>
+</item>
+<item>
+ <id>128</id>
+ <xpos>2562</xpos><ypos>1959</ypos>
+ <colorscheme>3</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>[space]</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>127</parent>
+</item>
+<item>
+ <id>129</id>
+ <xpos>3731</xpos><ypos>2340</ypos>
+ <colorscheme>1</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text>&lt;html&gt;&lt;/html&gt;</text>
+ <summary>Animation</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>-1</parent>
+ <flag>3</flag>
+</item>
+<item>
+ <id>130</id>
+ <xpos>2435</xpos><ypos>2496</ypos>
+ <colorscheme>3</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text></text>
+ <summary>map</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>157</parent>
+</item>
+<item>
+ <id>131</id>
+ <xpos>2524</xpos><ypos>2486</ypos>
+ <colorscheme>3</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text></text>
+ <summary>personajes y objetos</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>157</parent>
+</item>
+<item>
+ <id>132</id>
+ <xpos>2317</xpos><ypos>2425</ypos>
+ <colorscheme>1</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text></text>
+ <summary>rpg</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>-1</parent>
+ <child>156</child>
+</item>
+<item>
+ <id>133</id>
+ <xpos>3084</xpos><ypos>2491</ypos>
+ <colorscheme>1</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text></text>
+ <summary>manejador de la BSO</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>-1</parent>
+</item>
+<item>
+ <id>134</id>
+ <xpos>2782</xpos><ypos>2275</ypos>
+ <colorscheme>1</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text></text>
+ <summary>personaje</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>-1</parent>
+ <child>135</child>
+ <child>149</child>
+ <child>151</child>
+ <child>152</child>
+ <child>154</child>
+</item>
+<item>
+ <id>135</id>
+ <xpos>2643</xpos><ypos>2308</ypos>
+ <colorscheme>3</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text></text>
+ <summary>IA/controller</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>134</parent>
+</item>
+<item>
+ <id>136</id>
+ <xpos>3344</xpos><ypos>1459</ypos>
+ <colorscheme>3</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text></text>
+ <summary>clock</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>4</parent>
+</item>
+<item>
+ <id>137</id>
+ <xpos>3126</xpos><ypos>1525</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text></text>
+ <summary>start()</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>4</parent>
+</item>
+<item>
+ <id>138</id>
+ <xpos>3124</xpos><ypos>1477</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text></text>
+ <summary>stop()</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>4</parent>
+</item>
+<item>
+ <id>139</id>
+ <xpos>3132</xpos><ypos>1570</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text></text>
+ <summary>pause()</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>4</parent>
+</item>
+<item>
+ <id>140</id>
+ <xpos>2304</xpos><ypos>2733</ypos>
+ <colorscheme>1</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#ffffff</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text></text>
+ <summary>pobreton</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>-1</parent>
+ <child>163</child>
+</item>
+<item>
+ <id>141</id>
+ <xpos>2569</xpos><ypos>2713</ypos>
+ <colorscheme>1</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text></text>
+ <summary>consigues tus armas iniciales</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>163</parent>
+ <child>142</child>
+</item>
+<item>
+ <id>142</id>
+ <xpos>2702</xpos><ypos>2722</ypos>
+ <colorscheme>1</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text></text>
+ <summary>subes d nivel</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>141</parent>
+ <child>143</child>
+</item>
+<item>
+ <id>143</id>
+ <xpos>2803</xpos><ypos>2716</ypos>
+ <colorscheme>1</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text></text>
+ <summary>mas armas</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>142</parent>
+ <child>144</child>
+</item>
+<item>
+ <id>144</id>
+ <xpos>2901</xpos><ypos>2723</ypos>
+ <colorscheme>1</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text></text>
+ <summary>+nivel</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>143</parent>
+ <child>145</child>
+</item>
+<item>
+ <id>145</id>
+ <xpos>2988</xpos><ypos>2723</ypos>
+ <colorscheme>1</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text></text>
+ <summary>+nivel</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>144</parent>
+ <child>146</child>
+</item>
+<item>
+ <id>146</id>
+ <xpos>3069</xpos><ypos>2715</ypos>
+ <colorscheme>1</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text></text>
+ <summary>mejora d las basicas</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>145</parent>
+ <child>147</child>
+</item>
+<item>
+ <id>147</id>
+ <xpos>3187</xpos><ypos>2704</ypos>
+ <colorscheme>1</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text></text>
+ <summary>o stas enganxado o as abandonado el juego</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>146</parent>
+</item>
+<item>
+ <id>148</id>
+ <xpos>2857</xpos><ypos>2656</ypos>
+ <colorscheme>1</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text></text>
+ <summary>timeline</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>-1</parent>
+</item>
+<item>
+ <id>149</id>
+ <xpos>2779</xpos><ypos>2397</ypos>
+ <colorscheme>3</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text></text>
+ <summary>sprite</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>134</parent>
+</item>
+<item>
+ <id>151</id>
+ <xpos>2944</xpos><ypos>2273</ypos>
+ <colorscheme>3</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text></text>
+ <summary>position</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>134</parent>
+</item>
+<item>
+ <id>152</id>
+ <xpos>2860</xpos><ypos>2340</ypos>
+ <colorscheme>3</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text></text>
+ <summary>statemachine</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>134</parent>
+</item>
+<item>
+ <id>153</id>
+ <xpos>3067</xpos><ypos>2314</ypos>
+ <colorscheme>1</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text></text>
+ <summary>statemachine</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>-1</parent>
+ <child>167</child>
+ <child>168</child>
+ <child>169</child>
+ <child>170</child>
+</item>
+<item>
+ <id>154</id>
+ <xpos>2660</xpos><ypos>2238</ypos>
+ <colorscheme>3</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text></text>
+ <summary>rpg</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>134</parent>
+</item>
+<item>
+ <id>156</id>
+ <xpos>2313</xpos><ypos>2364</ypos>
+ <colorscheme>4</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text></text>
+ <summary>game</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>132</parent>
+</item>
+<item>
+ <id>157</id>
+ <xpos>2478</xpos><ypos>2438</ypos>
+ <colorscheme>1</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text></text>
+ <summary>rpg_scene</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>-1</parent>
+ <child>131</child>
+ <child>130</child>
+ <child>158</child>
+</item>
+<item>
+ <id>158</id>
+ <xpos>2492</xpos><ypos>2385</ypos>
+ <colorscheme>4</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text></text>
+ <summary>scene</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>157</parent>
+</item>
+<item>
+ <id>159</id>
+ <xpos>3419</xpos><ypos>2175</ypos>
+ <colorscheme>1</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text></text>
+ <summary>SortableDictWhithAutoKeys</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>-1</parent>
+ <child>160</child>
+ <child>161</child>
+ <child>162</child>
+</item>
+<item>
+ <id>160</id>
+ <xpos>3475</xpos><ypos>2114</ypos>
+ <colorscheme>4</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text></text>
+ <summary>SortableDict</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>159</parent>
+</item>
+<item>
+ <id>161</id>
+ <xpos>3661</xpos><ypos>2156</ypos>
+ <colorscheme>1</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text></text>
+ <summary>cuando se añade un nuevo elemento sin darle ninguna key, ha de crearlo con clave=last_int+1</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>159</parent>
+ <flag>0</flag>
+</item>
+<item>
+ <id>162</id>
+ <xpos>3479</xpos><ypos>2222</ypos>
+ <colorscheme>3</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text></text>
+ <summary>last_int=-1</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>159</parent>
+</item>
+<item>
+ <id>163</id>
+ <xpos>2414</xpos><ypos>2714</ypos>
+ <colorscheme>1</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text></text>
+ <summary>elijes si eres mago o guerrero o bardo</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>140</parent>
+ <child>141</child>
+</item>
+<item>
+ <id>164</id>
+ <xpos>3475</xpos><ypos>1906</ypos>
+ <colorscheme>1</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text></text>
+ <summary>cambiarlo a sortabledictwithkeys</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>36</parent>
+</item>
+<item>
+ <id>165</id>
+ <xpos>2878</xpos><ypos>1553</ypos>
+ <colorscheme>1</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text></text>
+ <summary>cambiar a SDWK</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>21</parent>
+</item>
+<item>
+ <id>166</id>
+ <xpos>3021</xpos><ypos>1580</ypos>
+ <colorscheme>1</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text></text>
+ <summary>cambiar a SDWK</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>16</parent>
+</item>
+<item>
+ <id>167</id>
+ <xpos>3115</xpos><ypos>2370</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text></text>
+ <summary>new_event()</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>153</parent>
+</item>
+<item>
+ <id>168</id>
+ <xpos>3017</xpos><ypos>2369</ypos>
+ <colorscheme>5</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text></text>
+ <summary>update()</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>153</parent>
+</item>
+<item>
+ <id>169</id>
+ <xpos>3142</xpos><ypos>2261</ypos>
+ <colorscheme>3</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text></text>
+ <summary>state</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>153</parent>
+</item>
+<item>
+ <id>170</id>
+ <xpos>3052</xpos><ypos>2261</ypos>
+ <colorscheme>3</colorscheme>
+ <defaultfont>Sans Serif,8,-1,0,50,0,0,0,0,0</defaultfont>
+ <fillcolor>#000000</fillcolor>
+ <outlinecolor>#000000</outlinecolor>
+ <textcolor>#000000</textcolor>
+ <text></text>
+ <summary>states</summary>
+ <comment></comment>
+ <picurl></picurl>
+ <piccaption></piccaption>
+ <parent>153</parent>
+</item>
+</kdissertdoc>

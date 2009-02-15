@@ -1,0 +1,64 @@
+Misc:
+    RendererNative
+    PlateButton
+    HyperLinkCntrl
+
+    DragAndDrop (abrir archivo)
+    FileHistory
+    
+    Shaped Window
+    
+principal:
+    AUI_DockingWindow
+
+
+map:
+-> Cairo_Sinppets
+-> scrolled window   vs Scrolled Panel vs DragScroller
+
+-> OGL (lo mejor :p)
+-> PseudoDC
+
+-> PopupMenu
+-> los popwindows pueden ser drag&drop
+-> RawBitamAcces
+-> AlphaDrawing
+-> Graphics Context
+-> FloatCanvas
+
+Zoom:
+-> slider
+
+border-frame:
+-> splitter windows
+    
+statusbar:
+    
+toolbar:
+->Toolbar
+-> Stock buttons
+-> No integrable: ButtonPanel
+-> FloatBar
+-> ArtProvider
+
+Flags:
+-> BitmapButton + ToggleButton 
+
+Text-zone:
+-> TextCtrl
+-> RichTextCtrl
+-> HtmlWindow (no permite modificacion)
+
+AboutBox:
+    AboutBox
+    
+    
+Interesante:
+    Pickers
+
+ConsolaPython
+    PyCrust
+    PyShell
+    
+Arbol de Nodos:
+    TreeMixin
